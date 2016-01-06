@@ -5,12 +5,29 @@ h1 {
   text-align: center;
 }
 
-.column {
+h2 {
+  text-align: center;
+}
+
+.column1 {
   width: 30%;
   float: left;
   text-align: justify;
+  background-color: yellow;
 }
 
+.column2 {
+  width: 30%;
+  float: left;
+  text-align: justify;
+  background-color: green;
+}
+.column3 {
+  width: 30%;
+  float: left;
+  text-align: justify;
+  background-color: magenta;
+}
 img {
   max-width: 300px;
 }
