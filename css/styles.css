@@ -1,0 +1,16 @@
+h1 {
+  font-family:cursive;
+  color: green;
+  font-style: bold;
+  text-align: center;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  text-align: justify;
+}
+
+img {
+  max-width: 300px;
+}
